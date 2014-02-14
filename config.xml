@@ -8,6 +8,5 @@
     <preference name="webviewbounce" value="true"/>
     <content src="index.html"/>
     
-    <gap:splash src="img/splash.png" />
     
 </widget>
