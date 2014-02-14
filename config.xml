@@ -7,6 +7,6 @@
     <preference name="fullscreen" value="true"/>
     <preference name="webviewbounce" value="true"/>
     <content src="index.html"/>
-    
+    hi will want to revert
     
 </widget>
