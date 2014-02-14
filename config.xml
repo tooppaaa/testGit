@@ -8,5 +8,5 @@
     <preference name="webviewbounce" value="true"/>
     <content src="index.html"/>
     
-    
+    my personal patch
 </widget>
