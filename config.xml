@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0" id="com.soliton.RadiologyPlusMobile" version="1.0.0">
+    <name>RadiologyPlusMobile</name>
+    <description>Soliton IT application</description>
+    <author email="support@solitonit.com" href="http://www.solitonit.com">Soliton IT</author>
+    <access origin="*"/>
+    <preference name="fullscreen" value="true"/>
+    <preference name="webviewbounce" value="true"/>
+    <content src="index.html"/>
+    
+    <gap:splash src="img/splash.png" />
+    
+</widget>
